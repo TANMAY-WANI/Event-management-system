@@ -1,0 +1,28 @@
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: yellow;
+}
+.navClass{
+    font-size: 2rem;
+    background-color: rgba(255,255,255,0.05);
+    border: 3px solid turquoise;
+    /* box-shadow: 5px 10px 20px rgb(192, 43, 43) ; */
+    /* background-color: black; */
+    padding: 1.5rem;
+    position: sticky;
+    border-radius: 3rem;
+    margin-bottom: 2rem;
+    /* margin-top: 50px; */
+    transition-property: all; 
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 500ms;
+}
+.navClass a:hover{
+    color: yellow;
+}
+.navClass a{
+    color: turquoise;
+}
+
+.navClass img{
+    width: 60px;
+}

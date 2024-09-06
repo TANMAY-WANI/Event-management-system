@@ -1,0 +1,9 @@
+body{
+    /* background: radial-gradient(circle, rgb(28, 97, 154) 0%,white 90%);  */
+    /* background-color: #0093E9; */
+/* background-image: linear-gradient(160deg, #8445cdac 0%, #80D0C7 100%); */
+background-color: black;
+ /* background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%); */
+    min-height: 100vh;
+    /* padding-top: 30vh; */
+}
